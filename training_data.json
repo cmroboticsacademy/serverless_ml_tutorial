@@ -1,0 +1,7002 @@
+[
+  {
+    "state": "Breaking",
+    "temp": "88",
+    "vibration": "79",
+    "current": "12",
+    "noise": "84"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "47",
+    "current": "59",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "11",
+    "current": "84",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "33",
+    "current": "72",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "15",
+    "current": "70",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "10",
+    "current": "73",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "44",
+    "current": "71",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "44",
+    "current": "52",
+    "noise": "20"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "52",
+    "current": "64",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "16",
+    "current": "86",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "32",
+    "current": "67",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "27",
+    "current": "67",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "18",
+    "current": "46",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "15",
+    "current": "89",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "15",
+    "current": "54",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "10",
+    "current": "75",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "29",
+    "current": "73",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "49",
+    "current": "40",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "18",
+    "current": "49",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "49",
+    "current": "58",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "13",
+    "current": "41",
+    "noise": "57"
+  },
+  {
+    "state": "Breaking",
+    "temp": "76",
+    "vibration": "50",
+    "current": "4",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "20",
+    "current": "51",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "23",
+    "current": "60",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "17",
+    "current": "85",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "22",
+    "current": "59",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "52",
+    "current": "89",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "17",
+    "current": "83",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "17",
+    "current": "57",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "54",
+    "current": "78",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "58",
+    "current": "87",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "44",
+    "current": "76",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "24",
+    "current": "56",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "41",
+    "current": "81",
+    "noise": "41"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "26",
+    "current": "76",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "20",
+    "current": "55",
+    "noise": "59"
+  },
+  {
+    "state": "Breaking",
+    "temp": "74",
+    "vibration": "96",
+    "current": "7",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "21",
+    "current": "83",
+    "noise": "84"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "18",
+    "current": "49",
+    "noise": "93"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "28",
+    "current": "66",
+    "noise": "50"
+  },
+  {
+    "state": "Breaking",
+    "temp": "83",
+    "vibration": "60",
+    "current": "47",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "33",
+    "current": "88",
+    "noise": "79"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "30",
+    "current": "81",
+    "noise": "55"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "35",
+    "current": "90",
+    "noise": "60"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "34",
+    "current": "82",
+    "noise": "51"
+  },
+  {
+    "state": "Breaking",
+    "temp": "64",
+    "vibration": "98",
+    "current": "25",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "43",
+    "current": "58",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "20",
+    "current": "80",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "16",
+    "current": "62",
+    "noise": "7"
+  },
+  {
+    "state": "Breaking",
+    "temp": "62",
+    "vibration": "55",
+    "current": "4",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "22",
+    "current": "67",
+    "noise": "79"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "36",
+    "current": "65",
+    "noise": "68"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "15",
+    "current": "72",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "43",
+    "current": "60",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "10",
+    "current": "46",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "60",
+    "current": "61",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "31",
+    "current": "51",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "54",
+    "current": "89",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "51",
+    "current": "90",
+    "noise": "91"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "53",
+    "current": "42",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "55",
+    "current": "66",
+    "noise": "91"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "34",
+    "current": "69",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "30",
+    "current": "73",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "59",
+    "current": "66",
+    "noise": "7"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "35",
+    "current": "47",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "45",
+    "current": "58",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "12",
+    "current": "57",
+    "noise": "5"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "10",
+    "current": "59",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "11",
+    "current": "56",
+    "noise": "5"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "30",
+    "current": "66",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "34",
+    "current": "57",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "42",
+    "current": "41",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "19",
+    "current": "66",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "41",
+    "current": "84",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "33",
+    "current": "87",
+    "noise": "6"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "18",
+    "current": "47",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "13",
+    "current": "64",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "46",
+    "current": "52",
+    "noise": "57"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "23",
+    "current": "63",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "57",
+    "current": "63",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "57",
+    "current": "59",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "10",
+    "current": "90",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "57",
+    "current": "55",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "29",
+    "current": "53",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "57",
+    "current": "45",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "21",
+    "current": "89",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "52",
+    "current": "51",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "28",
+    "current": "85",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "35",
+    "current": "65",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "31",
+    "current": "82",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "12",
+    "current": "86",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "22",
+    "current": "64",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "32",
+    "current": "49",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "33",
+    "current": "84",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "12",
+    "current": "58",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "24",
+    "current": "55",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "16",
+    "current": "47",
+    "noise": "63"
+  },
+  {
+    "state": "Breaking",
+    "temp": "73",
+    "vibration": "73",
+    "current": "48",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "10",
+    "current": "47",
+    "noise": "68"
+  },
+  {
+    "state": "Breaking",
+    "temp": "76",
+    "vibration": "78",
+    "current": "35",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "48",
+    "current": "53",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "14",
+    "current": "84",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "55",
+    "current": "78",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "20",
+    "current": "78",
+    "noise": "55"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "23",
+    "current": "81",
+    "noise": "7"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "27",
+    "current": "49",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "20",
+    "current": "56",
+    "noise": "36"
+  },
+  {
+    "state": "Breaking",
+    "temp": "74",
+    "vibration": "58",
+    "current": "13",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "42",
+    "current": "63",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "39",
+    "current": "76",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "34",
+    "current": "64",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "35",
+    "current": "46",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "18",
+    "current": "80",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "43",
+    "current": "84",
+    "noise": "78"
+  },
+  {
+    "state": "Breaking",
+    "temp": "91",
+    "vibration": "87",
+    "current": "5",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "10",
+    "current": "45",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "38",
+    "current": "66",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "30",
+    "current": "76",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "54",
+    "current": "82",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "15",
+    "current": "89",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "48",
+    "current": "60",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "12",
+    "current": "78",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "16",
+    "current": "72",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "48",
+    "current": "85",
+    "noise": "55"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "39",
+    "current": "65",
+    "noise": "7"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "40",
+    "current": "72",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "58",
+    "current": "63",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "57",
+    "current": "44",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "37",
+    "current": "67",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "21",
+    "current": "54",
+    "noise": "4"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "10",
+    "current": "76",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "50",
+    "current": "66",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "22",
+    "current": "45",
+    "noise": "99"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "11",
+    "current": "63",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "18",
+    "current": "62",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "40",
+    "current": "48",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "50",
+    "current": "46",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "41",
+    "current": "82",
+    "noise": "42"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "34",
+    "current": "81",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "37",
+    "current": "61",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "37",
+    "current": "56",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "52",
+    "current": "56",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "57",
+    "current": "68",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "37",
+    "current": "71",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "32",
+    "current": "52",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "59",
+    "current": "61",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "52",
+    "current": "79",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "28",
+    "current": "84",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "57",
+    "current": "47",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "37",
+    "current": "66",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "25",
+    "current": "56",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "58",
+    "current": "79",
+    "noise": "4"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "19",
+    "current": "59",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "49",
+    "current": "89",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "28",
+    "current": "76",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "44",
+    "current": "63",
+    "noise": "87"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "36",
+    "current": "55",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "36",
+    "current": "63",
+    "noise": "57"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "54",
+    "current": "68",
+    "noise": "76"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "52",
+    "current": "67",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "22",
+    "current": "52",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "35",
+    "current": "57",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "41",
+    "current": "43",
+    "noise": "57"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "18",
+    "current": "43",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "27",
+    "current": "59",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "22",
+    "current": "61",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "46",
+    "current": "48",
+    "noise": "5"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "31",
+    "current": "85",
+    "noise": "84"
+  },
+  {
+    "state": "Breaking",
+    "temp": "85",
+    "vibration": "81",
+    "current": "47",
+    "noise": "56"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "51",
+    "current": "71",
+    "noise": "37"
+  },
+  {
+    "state": "Breaking",
+    "temp": "97",
+    "vibration": "71",
+    "current": "18",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "11",
+    "current": "76",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "33",
+    "current": "85",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "31",
+    "current": "56",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "21",
+    "current": "67",
+    "noise": "11"
+  },
+  {
+    "state": "Breaking",
+    "temp": "72",
+    "vibration": "81",
+    "current": "41",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "17",
+    "current": "61",
+    "noise": "26"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "52",
+    "current": "74",
+    "noise": "66"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "14",
+    "current": "76",
+    "noise": "84"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "60",
+    "current": "57",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "33",
+    "current": "81",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "37",
+    "current": "86",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "35",
+    "current": "79",
+    "noise": "87"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "30",
+    "current": "51",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "40",
+    "current": "83",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "39",
+    "current": "51",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "47",
+    "current": "81",
+    "noise": "56"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "41",
+    "current": "67",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "44",
+    "current": "62",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "47",
+    "current": "65",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "39",
+    "current": "65",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "34",
+    "current": "56",
+    "noise": "25"
+  },
+  {
+    "state": "Breaking",
+    "temp": "81",
+    "vibration": "75",
+    "current": "42",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "35",
+    "current": "55",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "55",
+    "current": "89",
+    "noise": "66"
+  },
+  {
+    "state": "Breaking",
+    "temp": "88",
+    "vibration": "94",
+    "current": "45",
+    "noise": "84"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "21",
+    "current": "68",
+    "noise": "70"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "35",
+    "current": "88",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "12",
+    "current": "48",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "53",
+    "current": "74",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "44",
+    "current": "78",
+    "noise": "60"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "51",
+    "current": "70",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "44",
+    "current": "73",
+    "noise": "28"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "48",
+    "current": "68",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "58",
+    "current": "47",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "54",
+    "current": "59",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "14",
+    "current": "46",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "13",
+    "current": "88",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "56",
+    "current": "67",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "19",
+    "current": "60",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "31",
+    "current": "85",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "12",
+    "current": "76",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "55",
+    "current": "86",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "23",
+    "current": "79",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "43",
+    "current": "44",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "19",
+    "current": "77",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "41",
+    "current": "85",
+    "noise": "5"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "53",
+    "current": "77",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "54",
+    "current": "47",
+    "noise": "66"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "38",
+    "current": "77",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "32",
+    "current": "51",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "24",
+    "current": "70",
+    "noise": "45"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "23",
+    "current": "87",
+    "noise": "93"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "39",
+    "current": "81",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "33",
+    "current": "49",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "42",
+    "current": "78",
+    "noise": "7"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "32",
+    "current": "70",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "50",
+    "current": "86",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "50",
+    "current": "47",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "15",
+    "current": "87",
+    "noise": "54"
+  },
+  {
+    "state": "Breaking",
+    "temp": "82",
+    "vibration": "65",
+    "current": "29",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "38",
+    "current": "86",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "48",
+    "current": "74",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "32",
+    "current": "46",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "33",
+    "current": "51",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "54",
+    "current": "70",
+    "noise": "85"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "46",
+    "current": "46",
+    "noise": "27"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "24",
+    "current": "80",
+    "noise": "27"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "33",
+    "current": "57",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "16",
+    "current": "48",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "22",
+    "current": "58",
+    "noise": "23"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "11",
+    "current": "56",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "31",
+    "current": "88",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "45",
+    "current": "51",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "50",
+    "current": "48",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "59",
+    "current": "88",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "27",
+    "current": "40",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "37",
+    "current": "88",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "27",
+    "current": "66",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "52",
+    "current": "76",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "32",
+    "current": "47",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "32",
+    "current": "86",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "50",
+    "current": "56",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "14",
+    "current": "86",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "50",
+    "current": "40",
+    "noise": "73"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "24",
+    "current": "57",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "17",
+    "current": "68",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "12",
+    "current": "50",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "33",
+    "current": "66",
+    "noise": "23"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "13",
+    "current": "85",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "52",
+    "current": "52",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "19",
+    "current": "43",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "29",
+    "current": "88",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "12",
+    "current": "58",
+    "noise": "28"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "45",
+    "current": "58",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "12",
+    "current": "62",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "16",
+    "current": "58",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "44",
+    "current": "90",
+    "noise": "93"
+  },
+  {
+    "state": "Breaking",
+    "temp": "94",
+    "vibration": "89",
+    "current": "48",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "55",
+    "current": "66",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "21",
+    "current": "40",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "44",
+    "current": "61",
+    "noise": "11"
+  },
+  {
+    "state": "Breaking",
+    "temp": "78",
+    "vibration": "85",
+    "current": "9",
+    "noise": "45"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "33",
+    "current": "60",
+    "noise": "57"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "39",
+    "current": "44",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "57",
+    "current": "89",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "44",
+    "current": "72",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "26",
+    "current": "47",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "57",
+    "current": "83",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "30",
+    "current": "86",
+    "noise": "26"
+  },
+  {
+    "state": "Breaking",
+    "temp": "64",
+    "vibration": "57",
+    "current": "0",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "39",
+    "current": "63",
+    "noise": "60"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "18",
+    "current": "46",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "28",
+    "current": "59",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "52",
+    "current": "42",
+    "noise": "26"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "41",
+    "current": "63",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "39",
+    "current": "74",
+    "noise": "86"
+  },
+  {
+    "state": "Breaking",
+    "temp": "70",
+    "vibration": "65",
+    "current": "34",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "15",
+    "current": "84",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "28",
+    "current": "50",
+    "noise": "66"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "22",
+    "current": "75",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "11",
+    "current": "64",
+    "noise": "91"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "44",
+    "current": "48",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "20",
+    "current": "88",
+    "noise": "60"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "51",
+    "current": "64",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "32",
+    "current": "49",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "26",
+    "current": "55",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "11",
+    "current": "66",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "24",
+    "current": "49",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "24",
+    "current": "42",
+    "noise": "23"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "17",
+    "current": "47",
+    "noise": "70"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "16",
+    "current": "64",
+    "noise": "76"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "42",
+    "current": "73",
+    "noise": "85"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "36",
+    "current": "61",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "21",
+    "current": "82",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "42",
+    "current": "80",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "13",
+    "current": "55",
+    "noise": "73"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "56",
+    "current": "86",
+    "noise": "75"
+  },
+  {
+    "state": "Breaking",
+    "temp": "73",
+    "vibration": "69",
+    "current": "3",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "32",
+    "current": "40",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "50",
+    "current": "74",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "29",
+    "current": "40",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "25",
+    "current": "88",
+    "noise": "14"
+  },
+  {
+    "state": "Breaking",
+    "temp": "78",
+    "vibration": "97",
+    "current": "17",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "42",
+    "current": "86",
+    "noise": "77"
+  },
+  {
+    "state": "Breaking",
+    "temp": "78",
+    "vibration": "86",
+    "current": "41",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "47",
+    "current": "87",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "36",
+    "current": "72",
+    "noise": "79"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "21",
+    "current": "54",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "20",
+    "current": "90",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "60",
+    "current": "45",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "23",
+    "current": "64",
+    "noise": "35"
+  },
+  {
+    "state": "Breaking",
+    "temp": "98",
+    "vibration": "84",
+    "current": "17",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "15",
+    "current": "82",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "45",
+    "current": "61",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "29",
+    "current": "43",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "42",
+    "current": "83",
+    "noise": "27"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "20",
+    "current": "81",
+    "noise": "71"
+  },
+  {
+    "state": "Breaking",
+    "temp": "83",
+    "vibration": "59",
+    "current": "38",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "34",
+    "current": "79",
+    "noise": "91"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "29",
+    "current": "55",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "16",
+    "current": "86",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "23",
+    "current": "54",
+    "noise": "93"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "11",
+    "current": "77",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "39",
+    "current": "81",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "52",
+    "current": "69",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "15",
+    "current": "47",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "11",
+    "current": "82",
+    "noise": "44"
+  },
+  {
+    "state": "Breaking",
+    "temp": "93",
+    "vibration": "97",
+    "current": "1",
+    "noise": "76"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "16",
+    "current": "89",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "19",
+    "current": "78",
+    "noise": "1"
+  },
+  {
+    "state": "Breaking",
+    "temp": "65",
+    "vibration": "82",
+    "current": "19",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "28",
+    "current": "56",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "28",
+    "current": "88",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "31",
+    "current": "68",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "55",
+    "current": "56",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "33",
+    "current": "59",
+    "noise": "91"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "10",
+    "current": "68",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "34",
+    "current": "71",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "44",
+    "current": "83",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "46",
+    "current": "75",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "59",
+    "current": "56",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "10",
+    "current": "44",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "34",
+    "current": "43",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "59",
+    "current": "89",
+    "noise": "20"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "23",
+    "current": "68",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "42",
+    "current": "50",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "35",
+    "current": "46",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "29",
+    "current": "80",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "51",
+    "current": "75",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "53",
+    "current": "44",
+    "noise": "96"
+  },
+  {
+    "state": "Breaking",
+    "temp": "99",
+    "vibration": "63",
+    "current": "32",
+    "noise": "19"
+  },
+  {
+    "state": "Breaking",
+    "temp": "100",
+    "vibration": "96",
+    "current": "31",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "59",
+    "current": "80",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "12",
+    "current": "45",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "58",
+    "current": "77",
+    "noise": "57"
+  },
+  {
+    "state": "Breaking",
+    "temp": "61",
+    "vibration": "96",
+    "current": "23",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "39",
+    "current": "84",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "59",
+    "current": "80",
+    "noise": "76"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "26",
+    "current": "83",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "44",
+    "current": "80",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "33",
+    "current": "85",
+    "noise": "90"
+  },
+  {
+    "state": "Breaking",
+    "temp": "60",
+    "vibration": "79",
+    "current": "31",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "14",
+    "current": "82",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "22",
+    "current": "45",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "37",
+    "current": "84",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "52",
+    "current": "59",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "41",
+    "current": "55",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "28",
+    "current": "88",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "24",
+    "current": "77",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "24",
+    "current": "71",
+    "noise": "18"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "43",
+    "current": "63",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "48",
+    "current": "47",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "55",
+    "current": "52",
+    "noise": "55"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "55",
+    "current": "62",
+    "noise": "42"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "55",
+    "current": "85",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "54",
+    "current": "76",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "30",
+    "current": "80",
+    "noise": "100"
+  },
+  {
+    "state": "Breaking",
+    "temp": "88",
+    "vibration": "58",
+    "current": "39",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "34",
+    "current": "62",
+    "noise": "49"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "50",
+    "current": "58",
+    "noise": "95"
+  },
+  {
+    "state": "Breaking",
+    "temp": "95",
+    "vibration": "81",
+    "current": "31",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "58",
+    "current": "82",
+    "noise": "41"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "36",
+    "current": "78",
+    "noise": "84"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "26",
+    "current": "70",
+    "noise": "94"
+  },
+  {
+    "state": "Breaking",
+    "temp": "65",
+    "vibration": "55",
+    "current": "25",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "43",
+    "current": "77",
+    "noise": "49"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "49",
+    "current": "71",
+    "noise": "78"
+  },
+  {
+    "state": "Breaking",
+    "temp": "97",
+    "vibration": "92",
+    "current": "44",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "11",
+    "current": "43",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "47",
+    "current": "87",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "20",
+    "current": "56",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "57",
+    "current": "65",
+    "noise": "80"
+  },
+  {
+    "state": "Breaking",
+    "temp": "78",
+    "vibration": "58",
+    "current": "17",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "37",
+    "current": "57",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "51",
+    "current": "44",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "57",
+    "current": "40",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "34",
+    "current": "84",
+    "noise": "5"
+  },
+  {
+    "state": "Breaking",
+    "temp": "83",
+    "vibration": "53",
+    "current": "25",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "55",
+    "current": "57",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "58",
+    "current": "62",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "39",
+    "current": "90",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "60",
+    "current": "58",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "56",
+    "current": "49",
+    "noise": "73"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "13",
+    "current": "60",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "47",
+    "current": "56",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "36",
+    "current": "86",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "48",
+    "current": "45",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "52",
+    "current": "90",
+    "noise": "22"
+  },
+  {
+    "state": "Breaking",
+    "temp": "60",
+    "vibration": "98",
+    "current": "24",
+    "noise": "95"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "38",
+    "current": "58",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "43",
+    "current": "52",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "19",
+    "current": "83",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "35",
+    "current": "56",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "46",
+    "current": "55",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "30",
+    "current": "55",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "42",
+    "current": "49",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "26",
+    "current": "70",
+    "noise": "17"
+  },
+  {
+    "state": "Breaking",
+    "temp": "94",
+    "vibration": "50",
+    "current": "0",
+    "noise": "87"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "49",
+    "current": "65",
+    "noise": "73"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "29",
+    "current": "89",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "48",
+    "current": "79",
+    "noise": "28"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "17",
+    "current": "73",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "42",
+    "current": "88",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "43",
+    "current": "88",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "31",
+    "current": "67",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "40",
+    "current": "61",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "15",
+    "current": "78",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "38",
+    "current": "84",
+    "noise": "34"
+  },
+  {
+    "state": "Breaking",
+    "temp": "64",
+    "vibration": "100",
+    "current": "22",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "41",
+    "current": "73",
+    "noise": "2"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "33",
+    "current": "80",
+    "noise": "99"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "37",
+    "current": "41",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "24",
+    "current": "44",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "14",
+    "current": "70",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "16",
+    "current": "70",
+    "noise": "18"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "24",
+    "current": "59",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "40",
+    "current": "58",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "49",
+    "current": "71",
+    "noise": "82"
+  },
+  {
+    "state": "Breaking",
+    "temp": "91",
+    "vibration": "87",
+    "current": "20",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "45",
+    "current": "57",
+    "noise": "5"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "52",
+    "current": "45",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "14",
+    "current": "54",
+    "noise": "18"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "53",
+    "current": "43",
+    "noise": "5"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "22",
+    "current": "70",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "34",
+    "current": "88",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "45",
+    "current": "47",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "11",
+    "current": "53",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "36",
+    "current": "59",
+    "noise": "20"
+  },
+  {
+    "state": "Breaking",
+    "temp": "93",
+    "vibration": "60",
+    "current": "49",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "10",
+    "current": "63",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "39",
+    "current": "66",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "47",
+    "current": "51",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "41",
+    "current": "70",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "14",
+    "current": "56",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "58",
+    "current": "69",
+    "noise": "83"
+  },
+  {
+    "state": "Breaking",
+    "temp": "84",
+    "vibration": "95",
+    "current": "5",
+    "noise": "70"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "50",
+    "current": "76",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "58",
+    "current": "74",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "35",
+    "current": "75",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "41",
+    "current": "76",
+    "noise": "20"
+  },
+  {
+    "state": "Breaking",
+    "temp": "72",
+    "vibration": "85",
+    "current": "26",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "15",
+    "current": "42",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "54",
+    "current": "53",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "23",
+    "current": "90",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "28",
+    "current": "40",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "50",
+    "current": "40",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "43",
+    "current": "49",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "39",
+    "current": "57",
+    "noise": "95"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "26",
+    "current": "53",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "43",
+    "current": "73",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "41",
+    "current": "71",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "42",
+    "current": "75",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "31",
+    "current": "70",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "53",
+    "current": "52",
+    "noise": "4"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "22",
+    "current": "54",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "58",
+    "current": "66",
+    "noise": "73"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "47",
+    "current": "71",
+    "noise": "19"
+  },
+  {
+    "state": "Breaking",
+    "temp": "71",
+    "vibration": "58",
+    "current": "40",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "11",
+    "current": "89",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "35",
+    "current": "67",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "54",
+    "current": "47",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "60",
+    "current": "48",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "48",
+    "current": "81",
+    "noise": "56"
+  },
+  {
+    "state": "Breaking",
+    "temp": "91",
+    "vibration": "52",
+    "current": "49",
+    "noise": "76"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "13",
+    "current": "44",
+    "noise": "7"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "47",
+    "current": "48",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "34",
+    "current": "85",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "35",
+    "current": "45",
+    "noise": "72"
+  },
+  {
+    "state": "Breaking",
+    "temp": "72",
+    "vibration": "95",
+    "current": "41",
+    "noise": "9"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "59",
+    "current": "48",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "48",
+    "current": "47",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "46",
+    "current": "58",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "17",
+    "current": "64",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "29",
+    "current": "61",
+    "noise": "59"
+  },
+  {
+    "state": "Breaking",
+    "temp": "92",
+    "vibration": "66",
+    "current": "34",
+    "noise": "27"
+  },
+  {
+    "state": "Breaking",
+    "temp": "99",
+    "vibration": "88",
+    "current": "32",
+    "noise": "2"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "26",
+    "current": "69",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "21",
+    "current": "89",
+    "noise": "85"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "45",
+    "current": "90",
+    "noise": "49"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "24",
+    "current": "57",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "50",
+    "current": "80",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "12",
+    "current": "41",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "42",
+    "current": "70",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "33",
+    "current": "70",
+    "noise": "95"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "20",
+    "current": "82",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "42",
+    "current": "73",
+    "noise": "87"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "11",
+    "current": "66",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "52",
+    "current": "71",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "16",
+    "current": "45",
+    "noise": "2"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "32",
+    "current": "87",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "29",
+    "current": "53",
+    "noise": "99"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "53",
+    "current": "52",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "10",
+    "current": "71",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "23",
+    "current": "79",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "38",
+    "current": "87",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "43",
+    "current": "90",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "29",
+    "current": "85",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "15",
+    "current": "57",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "44",
+    "current": "58",
+    "noise": "91"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "57",
+    "current": "44",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "56",
+    "current": "63",
+    "noise": "49"
+  },
+  {
+    "state": "Breaking",
+    "temp": "67",
+    "vibration": "68",
+    "current": "6",
+    "noise": "50"
+  },
+  {
+    "state": "Breaking",
+    "temp": "66",
+    "vibration": "68",
+    "current": "25",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "51",
+    "current": "84",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "15",
+    "current": "72",
+    "noise": "4"
+  },
+  {
+    "state": "Breaking",
+    "temp": "67",
+    "vibration": "87",
+    "current": "31",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "33",
+    "current": "56",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "17",
+    "current": "43",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "22",
+    "current": "57",
+    "noise": "6"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "37",
+    "current": "65",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "11",
+    "current": "56",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "56",
+    "current": "89",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "31",
+    "current": "90",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "33",
+    "current": "63",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "55",
+    "current": "64",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "28",
+    "current": "90",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "31",
+    "current": "68",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "56",
+    "current": "67",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "10",
+    "current": "88",
+    "noise": "42"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "16",
+    "current": "90",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "22",
+    "current": "85",
+    "noise": "7"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "21",
+    "current": "76",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "56",
+    "current": "51",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "18",
+    "current": "59",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "59",
+    "current": "60",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "51",
+    "current": "69",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "26",
+    "current": "49",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "24",
+    "current": "71",
+    "noise": "24"
+  },
+  {
+    "state": "Breaking",
+    "temp": "69",
+    "vibration": "68",
+    "current": "25",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "48",
+    "current": "53",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "54",
+    "current": "55",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "29",
+    "current": "56",
+    "noise": "68"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "37",
+    "current": "86",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "57",
+    "current": "46",
+    "noise": "2"
+  },
+  {
+    "state": "Breaking",
+    "temp": "60",
+    "vibration": "80",
+    "current": "18",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "45",
+    "current": "52",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "58",
+    "current": "65",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "42",
+    "current": "71",
+    "noise": "17"
+  },
+  {
+    "state": "Breaking",
+    "temp": "62",
+    "vibration": "59",
+    "current": "0",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "44",
+    "current": "73",
+    "noise": "92"
+  },
+  {
+    "state": "Breaking",
+    "temp": "64",
+    "vibration": "55",
+    "current": "13",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "48",
+    "current": "61",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "27",
+    "current": "46",
+    "noise": "36"
+  },
+  {
+    "state": "Breaking",
+    "temp": "71",
+    "vibration": "74",
+    "current": "47",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "36",
+    "current": "87",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "28",
+    "current": "84",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "34",
+    "current": "79",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "49",
+    "current": "64",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "41",
+    "current": "69",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "40",
+    "current": "79",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "12",
+    "current": "57",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "56",
+    "current": "66",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "53",
+    "current": "40",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "49",
+    "current": "72",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "53",
+    "current": "74",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "57",
+    "current": "40",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "11",
+    "current": "75",
+    "noise": "27"
+  },
+  {
+    "state": "Breaking",
+    "temp": "84",
+    "vibration": "65",
+    "current": "30",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "56",
+    "current": "77",
+    "noise": "55"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "40",
+    "current": "43",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "51",
+    "current": "86",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "46",
+    "current": "55",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "39",
+    "current": "68",
+    "noise": "26"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "45",
+    "current": "49",
+    "noise": "83"
+  },
+  {
+    "state": "Breaking",
+    "temp": "72",
+    "vibration": "64",
+    "current": "41",
+    "noise": "56"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "23",
+    "current": "78",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "52",
+    "current": "54",
+    "noise": "57"
+  },
+  {
+    "state": "Breaking",
+    "temp": "84",
+    "vibration": "94",
+    "current": "6",
+    "noise": "68"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "16",
+    "current": "87",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "53",
+    "current": "54",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "28",
+    "current": "78",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "27",
+    "current": "44",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "35",
+    "current": "84",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "12",
+    "current": "69",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "27",
+    "current": "69",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "13",
+    "current": "54",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "56",
+    "current": "53",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "43",
+    "current": "76",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "14",
+    "current": "52",
+    "noise": "63"
+  },
+  {
+    "state": "Breaking",
+    "temp": "84",
+    "vibration": "79",
+    "current": "22",
+    "noise": "57"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "52",
+    "current": "83",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "39",
+    "current": "43",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "19",
+    "current": "65",
+    "noise": "76"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "10",
+    "current": "42",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "41",
+    "current": "90",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "40",
+    "current": "63",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "60",
+    "current": "65",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "26",
+    "current": "63",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "55",
+    "current": "72",
+    "noise": "6"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "59",
+    "current": "81",
+    "noise": "96"
+  },
+  {
+    "state": "Breaking",
+    "temp": "94",
+    "vibration": "51",
+    "current": "0",
+    "noise": "23"
+  },
+  {
+    "state": "Breaking",
+    "temp": "92",
+    "vibration": "87",
+    "current": "27",
+    "noise": "42"
+  },
+  {
+    "state": "Breaking",
+    "temp": "75",
+    "vibration": "99",
+    "current": "6",
+    "noise": "14"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "21",
+    "current": "75",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "38",
+    "current": "55",
+    "noise": "61"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "29",
+    "current": "48",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "57",
+    "current": "49",
+    "noise": "1"
+  },
+  {
+    "state": "Breaking",
+    "temp": "86",
+    "vibration": "95",
+    "current": "0",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "28",
+    "current": "64",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "48",
+    "current": "90",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "55",
+    "current": "82",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "39",
+    "current": "52",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "26",
+    "current": "50",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "39",
+    "current": "78",
+    "noise": "49"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "55",
+    "current": "67",
+    "noise": "20"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "16",
+    "current": "42",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "45",
+    "current": "72",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "37",
+    "current": "59",
+    "noise": "55"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "57",
+    "current": "73",
+    "noise": "84"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "14",
+    "current": "48",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "17",
+    "current": "47",
+    "noise": "87"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "51",
+    "current": "64",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "47",
+    "current": "86",
+    "noise": "20"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "22",
+    "current": "73",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "28",
+    "current": "76",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "20",
+    "current": "79",
+    "noise": "34"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "52",
+    "current": "75",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "60",
+    "current": "48",
+    "noise": "26"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "24",
+    "current": "82",
+    "noise": "87"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "25",
+    "current": "85",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "34",
+    "current": "48",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "46",
+    "current": "87",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "21",
+    "current": "77",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "35",
+    "current": "55",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "20",
+    "current": "75",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "22",
+    "current": "61",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "41",
+    "current": "46",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "25",
+    "current": "75",
+    "noise": "23"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "13",
+    "current": "42",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "16",
+    "current": "66",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "13",
+    "current": "66",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "48",
+    "current": "54",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "50",
+    "current": "78",
+    "noise": "38"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "14",
+    "current": "87",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "60",
+    "current": "42",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "12",
+    "current": "73",
+    "noise": "95"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "32",
+    "current": "69",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "44",
+    "current": "61",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "10",
+    "current": "74",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "12",
+    "current": "54",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "31",
+    "current": "73",
+    "noise": "95"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "55",
+    "current": "90",
+    "noise": "23"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "17",
+    "current": "85",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "29",
+    "current": "66",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "18",
+    "current": "78",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "30",
+    "current": "87",
+    "noise": "93"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "28",
+    "current": "61",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "21",
+    "current": "83",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "36",
+    "current": "70",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "32",
+    "current": "66",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "59",
+    "current": "89",
+    "noise": "57"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "13",
+    "current": "82",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "51",
+    "current": "44",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "33",
+    "current": "60",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "59",
+    "current": "46",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "16",
+    "current": "87",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "51",
+    "current": "67",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "16",
+    "current": "88",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "32",
+    "current": "53",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "36",
+    "current": "67",
+    "noise": "85"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "53",
+    "current": "77",
+    "noise": "45"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "47",
+    "current": "90",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "29",
+    "current": "80",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "38",
+    "current": "67",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "18",
+    "current": "57",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "21",
+    "current": "52",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "13",
+    "current": "75",
+    "noise": "88"
+  },
+  {
+    "state": "Breaking",
+    "temp": "82",
+    "vibration": "63",
+    "current": "22",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "50",
+    "current": "81",
+    "noise": "73"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "17",
+    "current": "58",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "18",
+    "current": "66",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "18",
+    "current": "57",
+    "noise": "68"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "60",
+    "current": "75",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "39",
+    "current": "75",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "12",
+    "current": "53",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "12",
+    "current": "77",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "16",
+    "current": "54",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "24",
+    "current": "45",
+    "noise": "84"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "17",
+    "current": "79",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "59",
+    "current": "45",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "27",
+    "current": "79",
+    "noise": "79"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "37",
+    "current": "52",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "34",
+    "current": "56",
+    "noise": "99"
+  },
+  {
+    "state": "Breaking",
+    "temp": "88",
+    "vibration": "66",
+    "current": "36",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "40",
+    "current": "47",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "42",
+    "current": "53",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "43",
+    "current": "87",
+    "noise": "4"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "10",
+    "current": "43",
+    "noise": "93"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "31",
+    "current": "81",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "43",
+    "current": "53",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "32",
+    "current": "72",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "34",
+    "current": "57",
+    "noise": "45"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "26",
+    "current": "53",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "28",
+    "current": "80",
+    "noise": "79"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "16",
+    "current": "86",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "40",
+    "current": "41",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "39",
+    "current": "80",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "44",
+    "current": "65",
+    "noise": "25"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "40",
+    "current": "68",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "31",
+    "current": "76",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "36",
+    "current": "64",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "41",
+    "current": "48",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "22",
+    "current": "43",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "42",
+    "current": "60",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "43",
+    "current": "58",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "45",
+    "current": "82",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "11",
+    "current": "75",
+    "noise": "89"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "45",
+    "current": "51",
+    "noise": "72"
+  },
+  {
+    "state": "Breaking",
+    "temp": "88",
+    "vibration": "93",
+    "current": "25",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "46",
+    "current": "52",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "12",
+    "current": "90",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "25",
+    "current": "69",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "35",
+    "current": "56",
+    "noise": "70"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "43",
+    "current": "70",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "25",
+    "current": "78",
+    "noise": "20"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "42",
+    "current": "65",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "22",
+    "current": "76",
+    "noise": "2"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "26",
+    "current": "75",
+    "noise": "95"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "39",
+    "current": "69",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "57",
+    "current": "69",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "33",
+    "current": "70",
+    "noise": "56"
+  },
+  {
+    "state": "Working",
+    "temp": "58",
+    "vibration": "15",
+    "current": "45",
+    "noise": "44"
+  },
+  {
+    "state": "Breaking",
+    "temp": "76",
+    "vibration": "99",
+    "current": "18",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "14",
+    "current": "44",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "44",
+    "current": "59",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "27",
+    "current": "66",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "21",
+    "current": "40",
+    "noise": "23"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "24",
+    "current": "81",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "37",
+    "current": "75",
+    "noise": "28"
+  },
+  {
+    "state": "Breaking",
+    "temp": "63",
+    "vibration": "64",
+    "current": "22",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "37",
+    "current": "69",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "35",
+    "current": "87",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "55",
+    "current": "42",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "33",
+    "current": "78",
+    "noise": "52"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "45",
+    "current": "82",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "58",
+    "current": "78",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "29",
+    "current": "61",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "58",
+    "current": "59",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "52",
+    "current": "42",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "19",
+    "current": "88",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "48",
+    "current": "47",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "55",
+    "current": "46",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "60",
+    "current": "59",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "50",
+    "current": "49",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "44",
+    "current": "80",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "15",
+    "current": "58",
+    "noise": "66"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "58",
+    "current": "80",
+    "noise": "22"
+  },
+  {
+    "state": "Breaking",
+    "temp": "87",
+    "vibration": "92",
+    "current": "3",
+    "noise": "18"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "11",
+    "current": "90",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "29",
+    "current": "44",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "38",
+    "current": "84",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "26",
+    "current": "70",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "54",
+    "current": "45",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "41",
+    "current": "54",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "43",
+    "current": "73",
+    "noise": "20"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "33",
+    "current": "58",
+    "noise": "4"
+  },
+  {
+    "state": "Working",
+    "temp": "57",
+    "vibration": "50",
+    "current": "66",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "23",
+    "current": "75",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "11",
+    "current": "89",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "12",
+    "current": "86",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "51",
+    "current": "63",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "14",
+    "current": "45",
+    "noise": "56"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "45",
+    "current": "40",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "36",
+    "current": "84",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "10",
+    "current": "63",
+    "noise": "20"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "31",
+    "current": "64",
+    "noise": "39"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "28",
+    "current": "62",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "30",
+    "current": "47",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "37",
+    "current": "48",
+    "noise": "58"
+  },
+  {
+    "state": "Breaking",
+    "temp": "95",
+    "vibration": "90",
+    "current": "3",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "38",
+    "current": "83",
+    "noise": "2"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "21",
+    "current": "72",
+    "noise": "26"
+  },
+  {
+    "state": "Breaking",
+    "temp": "69",
+    "vibration": "71",
+    "current": "34",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "17",
+    "current": "52",
+    "noise": "51"
+  },
+  {
+    "state": "Breaking",
+    "temp": "63",
+    "vibration": "50",
+    "current": "13",
+    "noise": "28"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "37",
+    "current": "86",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "25",
+    "current": "44",
+    "noise": "55"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "39",
+    "current": "46",
+    "noise": "68"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "53",
+    "current": "79",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "23",
+    "current": "62",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "15",
+    "current": "41",
+    "noise": "73"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "53",
+    "current": "72",
+    "noise": "62"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "42",
+    "current": "67",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "12",
+    "current": "45",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "70",
+    "vibration": "14",
+    "current": "41",
+    "noise": "39"
+  },
+  {
+    "state": "Breaking",
+    "temp": "60",
+    "vibration": "51",
+    "current": "40",
+    "noise": "56"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "47",
+    "current": "47",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "57",
+    "current": "81",
+    "noise": "57"
+  },
+  {
+    "state": "Breaking",
+    "temp": "97",
+    "vibration": "79",
+    "current": "37",
+    "noise": "74"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "31",
+    "current": "74",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "48",
+    "current": "58",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "37",
+    "current": "65",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "51",
+    "current": "50",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "51",
+    "current": "62",
+    "noise": "28"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "21",
+    "current": "85",
+    "noise": "85"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "31",
+    "current": "75",
+    "noise": "69"
+  },
+  {
+    "state": "Breaking",
+    "temp": "84",
+    "vibration": "75",
+    "current": "25",
+    "noise": "46"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "29",
+    "current": "70",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "54",
+    "current": "63",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "44",
+    "vibration": "31",
+    "current": "47",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "32",
+    "current": "61",
+    "noise": "68"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "43",
+    "current": "75",
+    "noise": "9"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "21",
+    "current": "78",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "27",
+    "current": "76",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "53",
+    "current": "73",
+    "noise": "61"
+  },
+  {
+    "state": "Breaking",
+    "temp": "68",
+    "vibration": "61",
+    "current": "3",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "19",
+    "current": "55",
+    "noise": "56"
+  },
+  {
+    "state": "Breaking",
+    "temp": "91",
+    "vibration": "66",
+    "current": "32",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "16",
+    "current": "76",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "36",
+    "current": "57",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "60",
+    "current": "75",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "17",
+    "current": "63",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "27",
+    "current": "54",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "19",
+    "current": "42",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "57",
+    "current": "59",
+    "noise": "93"
+  },
+  {
+    "state": "Working",
+    "temp": "38",
+    "vibration": "30",
+    "current": "56",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "17",
+    "current": "71",
+    "noise": "47"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "22",
+    "current": "87",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "33",
+    "current": "71",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "12",
+    "current": "62",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "72",
+    "vibration": "40",
+    "current": "77",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "20",
+    "current": "65",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "15",
+    "current": "85",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "21",
+    "current": "83",
+    "noise": "66"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "12",
+    "current": "61",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "43",
+    "vibration": "23",
+    "current": "89",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "16",
+    "current": "62",
+    "noise": "28"
+  },
+  {
+    "state": "Breaking",
+    "temp": "61",
+    "vibration": "67",
+    "current": "4",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "15",
+    "current": "71",
+    "noise": "87"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "39",
+    "current": "67",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "32",
+    "current": "77",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "53",
+    "current": "54",
+    "noise": "49"
+  },
+  {
+    "state": "Working",
+    "temp": "30",
+    "vibration": "22",
+    "current": "52",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "53",
+    "current": "59",
+    "noise": "24"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "40",
+    "current": "90",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "15",
+    "current": "65",
+    "noise": "97"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "42",
+    "current": "80",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "30",
+    "current": "81",
+    "noise": "1"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "50",
+    "current": "68",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "18",
+    "current": "68",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "42",
+    "current": "80",
+    "noise": "86"
+  },
+  {
+    "state": "Breaking",
+    "temp": "100",
+    "vibration": "69",
+    "current": "43",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "28",
+    "current": "45",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "35",
+    "current": "60",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "53",
+    "current": "61",
+    "noise": "70"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "24",
+    "current": "89",
+    "noise": "70"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "10",
+    "current": "59",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "48",
+    "current": "49",
+    "noise": "41"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "25",
+    "current": "57",
+    "noise": "77"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "44",
+    "current": "79",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "48",
+    "current": "82",
+    "noise": "79"
+  },
+  {
+    "state": "Working",
+    "temp": "49",
+    "vibration": "13",
+    "current": "55",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "24",
+    "current": "76",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "10",
+    "current": "87",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "46",
+    "vibration": "57",
+    "current": "45",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "28",
+    "current": "87",
+    "noise": "57"
+  },
+  {
+    "state": "Breaking",
+    "temp": "83",
+    "vibration": "80",
+    "current": "35",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "54",
+    "current": "68",
+    "noise": "50"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "52",
+    "current": "45",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "48",
+    "current": "90",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "47",
+    "current": "61",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "49",
+    "current": "64",
+    "noise": "59"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "10",
+    "current": "66",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "36",
+    "vibration": "11",
+    "current": "90",
+    "noise": "12"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "43",
+    "current": "75",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "42",
+    "vibration": "53",
+    "current": "68",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "68",
+    "vibration": "60",
+    "current": "87",
+    "noise": "42"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "23",
+    "current": "87",
+    "noise": "92"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "36",
+    "current": "52",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "52",
+    "current": "47",
+    "noise": "79"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "37",
+    "current": "51",
+    "noise": "65"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "10",
+    "current": "43",
+    "noise": "98"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "28",
+    "current": "88",
+    "noise": "35"
+  },
+  {
+    "state": "Breaking",
+    "temp": "98",
+    "vibration": "87",
+    "current": "9",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "47",
+    "current": "77",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "36",
+    "current": "65",
+    "noise": "88"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "40",
+    "current": "67",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "51",
+    "current": "41",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "51",
+    "current": "53",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "49",
+    "current": "66",
+    "noise": "75"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "59",
+    "current": "79",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "19",
+    "current": "55",
+    "noise": "42"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "15",
+    "current": "78",
+    "noise": "43"
+  },
+  {
+    "state": "Working",
+    "temp": "40",
+    "vibration": "59",
+    "current": "67",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "53",
+    "vibration": "15",
+    "current": "80",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "45",
+    "current": "81",
+    "noise": "53"
+  },
+  {
+    "state": "Working",
+    "temp": "73",
+    "vibration": "46",
+    "current": "85",
+    "noise": "68"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "51",
+    "current": "86",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "36",
+    "current": "44",
+    "noise": "54"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "58",
+    "current": "70",
+    "noise": "13"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "33",
+    "current": "76",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "48",
+    "vibration": "14",
+    "current": "76",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "17",
+    "current": "89",
+    "noise": "29"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "24",
+    "current": "65",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "16",
+    "current": "75",
+    "noise": "5"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "21",
+    "current": "59",
+    "noise": "48"
+  },
+  {
+    "state": "Working",
+    "temp": "66",
+    "vibration": "13",
+    "current": "82",
+    "noise": "31"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "42",
+    "current": "76",
+    "noise": "90"
+  },
+  {
+    "state": "Working",
+    "temp": "60",
+    "vibration": "26",
+    "current": "67",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "27",
+    "current": "62",
+    "noise": "99"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "17",
+    "current": "63",
+    "noise": "60"
+  },
+  {
+    "state": "Working",
+    "temp": "29",
+    "vibration": "38",
+    "current": "69",
+    "noise": "65"
+  },
+  {
+    "state": "Breaking",
+    "temp": "88",
+    "vibration": "61",
+    "current": "25",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "44",
+    "current": "66",
+    "noise": "16"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "40",
+    "current": "59",
+    "noise": "100"
+  },
+  {
+    "state": "Breaking",
+    "temp": "89",
+    "vibration": "61",
+    "current": "27",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "18",
+    "current": "40",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "58",
+    "current": "40",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "51",
+    "vibration": "43",
+    "current": "40",
+    "noise": "82"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "25",
+    "current": "70",
+    "noise": "69"
+  },
+  {
+    "state": "Working",
+    "temp": "59",
+    "vibration": "56",
+    "current": "78",
+    "noise": "56"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "59",
+    "current": "81",
+    "noise": "80"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "49",
+    "current": "70",
+    "noise": "85"
+  },
+  {
+    "state": "Breaking",
+    "temp": "71",
+    "vibration": "53",
+    "current": "34",
+    "noise": "17"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "20",
+    "current": "46",
+    "noise": "50"
+  },
+  {
+    "state": "Breaking",
+    "temp": "71",
+    "vibration": "72",
+    "current": "17",
+    "noise": "100"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "59",
+    "current": "69",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "41",
+    "current": "68",
+    "noise": "11"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "28",
+    "current": "70",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "58",
+    "current": "57",
+    "noise": "35"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "47",
+    "current": "65",
+    "noise": "16"
+  },
+  {
+    "state": "Breaking",
+    "temp": "69",
+    "vibration": "98",
+    "current": "27",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "35",
+    "current": "69",
+    "noise": "2"
+  },
+  {
+    "state": "Working",
+    "temp": "27",
+    "vibration": "46",
+    "current": "53",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "50",
+    "current": "57",
+    "noise": "15"
+  },
+  {
+    "state": "Working",
+    "temp": "32",
+    "vibration": "34",
+    "current": "78",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "47",
+    "vibration": "13",
+    "current": "45",
+    "noise": "67"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "10",
+    "current": "82",
+    "noise": "76"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "21",
+    "current": "71",
+    "noise": "8"
+  },
+  {
+    "state": "Working",
+    "temp": "35",
+    "vibration": "13",
+    "current": "83",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "61",
+    "vibration": "13",
+    "current": "52",
+    "noise": "3"
+  },
+  {
+    "state": "Working",
+    "temp": "31",
+    "vibration": "36",
+    "current": "58",
+    "noise": "64"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "34",
+    "current": "79",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "41",
+    "vibration": "47",
+    "current": "68",
+    "noise": "33"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "32",
+    "current": "70",
+    "noise": "49"
+  },
+  {
+    "state": "Breaking",
+    "temp": "77",
+    "vibration": "64",
+    "current": "42",
+    "noise": "94"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "15",
+    "current": "56",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "27",
+    "current": "47",
+    "noise": "72"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "41",
+    "current": "46",
+    "noise": "10"
+  },
+  {
+    "state": "Working",
+    "temp": "69",
+    "vibration": "14",
+    "current": "83",
+    "noise": "86"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "24",
+    "current": "63",
+    "noise": "40"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "16",
+    "current": "84",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "67",
+    "vibration": "18",
+    "current": "86",
+    "noise": "83"
+  },
+  {
+    "state": "Working",
+    "temp": "28",
+    "vibration": "13",
+    "current": "44",
+    "noise": "32"
+  },
+  {
+    "state": "Working",
+    "temp": "39",
+    "vibration": "38",
+    "current": "42",
+    "noise": "36"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "25",
+    "current": "71",
+    "noise": "22"
+  },
+  {
+    "state": "Working",
+    "temp": "37",
+    "vibration": "20",
+    "current": "82",
+    "noise": "85"
+  },
+  {
+    "state": "Working",
+    "temp": "64",
+    "vibration": "26",
+    "current": "74",
+    "noise": "37"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "59",
+    "current": "63",
+    "noise": "19"
+  },
+  {
+    "state": "Working",
+    "temp": "74",
+    "vibration": "44",
+    "current": "63",
+    "noise": "55"
+  },
+  {
+    "state": "Breaking",
+    "temp": "86",
+    "vibration": "71",
+    "current": "8",
+    "noise": "96"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "24",
+    "current": "85",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "75",
+    "vibration": "18",
+    "current": "83",
+    "noise": "58"
+  },
+  {
+    "state": "Working",
+    "temp": "63",
+    "vibration": "55",
+    "current": "43",
+    "noise": "44"
+  },
+  {
+    "state": "Working",
+    "temp": "65",
+    "vibration": "36",
+    "current": "45",
+    "noise": "21"
+  },
+  {
+    "state": "Working",
+    "temp": "54",
+    "vibration": "46",
+    "current": "79",
+    "noise": "28"
+  },
+  {
+    "state": "Working",
+    "temp": "71",
+    "vibration": "59",
+    "current": "74",
+    "noise": "81"
+  },
+  {
+    "state": "Working",
+    "temp": "50",
+    "vibration": "42",
+    "current": "80",
+    "noise": "4"
+  },
+  {
+    "state": "Working",
+    "temp": "34",
+    "vibration": "37",
+    "current": "62",
+    "noise": "36"
+  },
+  {
+    "state": "Breaking",
+    "temp": "67",
+    "vibration": "67",
+    "current": "23",
+    "noise": "30"
+  },
+  {
+    "state": "Working",
+    "temp": "33",
+    "vibration": "13",
+    "current": "48",
+    "noise": "0"
+  },
+  {
+    "state": "Working",
+    "temp": "56",
+    "vibration": "29",
+    "current": "56",
+    "noise": "78"
+  },
+  {
+    "state": "Working",
+    "temp": "52",
+    "vibration": "46",
+    "current": "46",
+    "noise": "41"
+  },
+  {
+    "state": "Working",
+    "temp": "62",
+    "vibration": "52",
+    "current": "41",
+    "noise": "51"
+  },
+  {
+    "state": "Working",
+    "temp": "45",
+    "vibration": "43",
+    "current": "75",
+    "noise": "99"
+  },
+  {
+    "state": "Working",
+    "temp": "25",
+    "vibration": "14",
+    "current": "62",
+    "noise": "35"
+  },
+  {
+    "state": "Breaking",
+    "temp": "97",
+    "vibration": "92",
+    "current": "43",
+    "noise": "63"
+  },
+  {
+    "state": "Working",
+    "temp": "26",
+    "vibration": "37",
+    "current": "70",
+    "noise": "71"
+  },
+  {
+    "state": "Working",
+    "temp": "55",
+    "vibration": "37",
+    "current": "76",
+    "noise": "23"
+  }
+]

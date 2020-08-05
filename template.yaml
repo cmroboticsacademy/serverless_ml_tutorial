@@ -1,0 +1,38 @@
+AWSTemplateFormatVersion: "2010-09-09"
+Transform: AWS::Serverless-2016-10-31
+Description: >
+  serverless_ml_tutorial
+
+  Sample SAM Template for serverless_ml_tutorial
+
+# More info about Globals: https://github.com/awslabs/serverless-application-model/blob/master/docs/globals.rst
+Globals:
+  Function:
+    Timeout: 60
+
+Resources:
+  ModelInferenceFunction:
+    Type: AWS::Serverless::Function # More info about Function Resource: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#awsserverlessfunction
+    Properties:
+      CodeUri: model_inference/
+      Handler: app.lambda_handler
+      Runtime: python3.8
+      Policies:
+        - S3ReadPolicy: { "BucketName": "cmra-serverless-ml-tutorial" }
+      Events:
+        API:
+          Type: Api # More info about API Event Source: https://github.com/awslabs/serverless-application-model/blob/master/versions/2016-10-31.md#api
+          Properties:
+            Path: /inferences
+            Method: post
+
+Outputs:
+  API:
+    Description: "API Gateway endpoint URL for Prod stage for ModelInference function"
+    Value: !Sub "https://${ServerlessRestApi}.execute-api.${AWS::Region}.amazonaws.com/Prod/"
+  ModelInferenceFunction:
+    Description: "Model Inference Lambda Function ARN"
+    Value: !GetAtt ModelInferenceFunction.Arn
+  HelloWorldFunctionIamRole:
+    Description: "Implicit IAM Role created for ModelInference function"
+    Value: !GetAtt ModelInferenceFunctionRole.Arn
